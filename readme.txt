@@ -71,7 +71,7 @@ This repository demonstrates designing, populating, and managing a database for 
 ## How to Use
 
 1. **Relational Database Tasks:**  
-   - Obtain and run the `pdc-schema-insert.sql` file (from official assignment materials) to set up the schema.
+   - Obtain and run the `pdc-schema-insert.sql` file (from Monash University) to set up the schema.
    - Execute the provided SQL scripts (`T2-pdc-insert.sql`, `T3-pdc-dm.sql`, `T4-pdc-queries.sql`, `T5-pdc-mods.sql`) in order to load data, manipulate records, run queries, and apply design modifications.
 
 2. **Non-Relational Database Tasks (MongoDB):**  
