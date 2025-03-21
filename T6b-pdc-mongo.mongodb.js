@@ -1,27 +1,4 @@
-// *****PLEASE ENTER YOUR DETAILS BELOW*****
-// T6-pdc-mongo.mongodb.js
 
-// Student ID: 35484306
-// Student Name: Conrad Guo
-
-// ===================================================================================
-// Do not modify or remove any of the comments below (items marked with //)
-// ===================================================================================
-
-// Comments for your marker (add text below if needed):
-//
-//
-//
-
-// Use (connect to) your database - you MUST insert your authcate username
-// between the "" below
-use("cguo0022");
-
-// 3(b)
-// PLEASE PLACE REQUIRED MONGODB COMMAND TO CREATE THE COLLECTION HERE
-// YOU MAY PICK ANY COLLECTION NAME
-// ENSURE that your query is formatted and has a semicolon
-// (;) at the end of this answer
 
 // Drop collection
 db.appointments.drop();
