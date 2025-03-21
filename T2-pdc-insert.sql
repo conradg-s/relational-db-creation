@@ -1,10 +1,3 @@
---*****PLEASE ENTER YOUR DETAILS BELOW*****
---T2-pdc-insert.sql
-
--- ITO Assignment 2 Task 2
-
---Student ID: 35484306
---Student Name: Conrad Guo
 
 /* Comments for your marker:
 
