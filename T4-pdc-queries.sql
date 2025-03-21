@@ -1,12 +1,3 @@
---*****PLEASE ENTER YOUR DETAILS BELOW*****
---T4-pdc-queries.sql
-
--- ITO Assignment 2 Task 4
-
---Student ID: 35484306
---Student Name: Conrad Guo
-
-/* Comments for your marker:
 
 
 it has been assumed that apptserv_itemcost is the total cost of the items involved in the appointment.
