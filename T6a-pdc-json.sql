@@ -1,21 +1,3 @@
---*****PLEASE ENTER YOUR DETAILS BELOW*****
---T6a-pdc-json.sql
-
--- ITO Assignment 2 Task 6a
-
---Student ID: 35484306
---Student Name: Conrad Guo
-
-/* Comments for your marker:
-
-
-
-
-*/
-
--- ENSURE that your SQL code is formatted and has a semicolon (;)
--- at the end of every statement. When marked this will be run as
--- a script.
 
 /*
 (a)
